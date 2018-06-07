@@ -180,13 +180,13 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:567px;
+  width:372px;
   margin-left:0;
   margin-right:0;
   text-align:left;
 }
 #u1.a {
-  left:42px;
+  left:-3px;
   top:0px;
 }
 #u1_div.a {
@@ -208,7 +208,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u2.a {
 }
 #u3.a {
-  left:42px;
+  left:-3px;
   top:26px;
   width:333px;
   height:435px;
@@ -222,7 +222,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:329px;
 }
 #u5.a {
-  left:104px;
+  left:59px;
   top:0px;
 }
 #u5_div.a {
